@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  label {
+    font-weight: 700;
+    size: 15px;
+    margin-top:10px;
+  }
+  
+  button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+    padding: 10px;
+    background-color: #3898ec;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input, select {
+    border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #808080;
+    height: 20px;
+  }
+  
+  
